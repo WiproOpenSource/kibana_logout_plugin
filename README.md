@@ -2,7 +2,7 @@
 
 > logout
 
-## Graph Network Plugin for Kibana 6.2.x
+## Logout Plugin for Kibana 6.2.x
 
 Kibana plugin providing the logout implementation where external framework/component is used for authentication. Current implementation supports logout for basic authentication and in subsequent iterations we will incorporate logout functionalities for other authentication modes.
 
